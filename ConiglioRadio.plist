@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Deutsche Welle</string>
+		<key>URI</key>
+		<string>http://c13010-ls.i.core.cdn.streamfarm.net/dwworldlive-live/13010dwrde64.mp3</string>
+		<key>Desc</key>
+		<string>DE - Germany&apos;s International Broadcasting Station</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>FG. DJ Radio</string>
+		<key>URI</key>
+		<string>http://fg.impek.tv:80/</string>
+		<key>Desc</key>
+		<string>FR - La radio de référence de l&apos;electro house, de la dance et des Dj&apos;s</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>France Culture</string>
+		<key>URI</key>
+		<string>http://mp3.live.tv-radio.com/franceculture/all/franceculture-32k.mp3</string>
+		<key>Desc</key>
+		<string>FR - Une radio de service public du groupe Radio France.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>France Musique</string>
+		<key>URI</key>
+		<string>http://mp3.live.tv-radio.com/francemusique/all/francemusique-32k.mp3</string>
+		<key>Desc</key>
+		<string>FR - Radio française autour de la musique.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>La Grosse Radio</string>
+		<key>URI</key>
+		<string>http://stream.hd.ebsd.lagrosseradio.info:8500/</string>
+		<key>Desc</key>
+		<string>FR - La radio du rock et des nouveaux talents de l&apos;autoproduction.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>OuiFM2</string>
+		<key>URI</key>
+		<string>http://ouifm2.impek.com:80/</string>
+		<key>Desc</key>
+		<string>FR - Retrouvez le meilleur de l&apos;alternative rock</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Radio 103 Piemonte</string>
+		<key>URI</key>
+		<string>http://s3.mediastreaming.it:7440/</string>
+		<key>Desc</key>
+		<string>IT - Notizie, sorrisi e canzoni, tutto in una radio!</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Radio Non Solo Suoni</string>
+		<key>URI</key>
+		<string>http://s3.mediastreaming.it:7550/</string>
+		<key>Desc</key>
+		<string>IT - Un sogno fatto di musica</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Radio Onda Rossa</string>
+		<key>URI</key>
+		<string>http://radio.dyne.org:8000/ondarossa.mp3</string>
+		<key>Desc</key>
+		<string>IT - Fondata nel maggio del 1977 a Roma.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Radio Paradise</string>
+		<key>URI</key>
+		<string>http://207.200.96.226:8056</string>
+		<key>Desc</key>
+		<string>US - Radio Paradise is Old Fashioned Radio for the 21st Century</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Radio Popolare Roma</string>
+		<key>URI</key>
+		<string>http://stream.radiopopolareroma.it:8000/bbs</string>
+		<key>Desc</key>
+		<string>IT - Radio Popolare Roma è la nuova radio libera e indipendente della Capitale.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Radio Sanskar</string>
+		<key>URI</key>
+		<string>http://sabstreamer.no-ip.biz:8000/sanskar</string>
+		<key>Desc</key>
+		<string>UK - Your favourite religious station</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Xfm (London)</string>
+		<key>URI</key>
+		<string>http://media-ice.musicradio.com:80/XFMMP3Low</string>
+		<key>Desc</key>
+		<string>UK - The UK&apos;s new music radio station</string>
+	</dict>
+</array>
+</plist>

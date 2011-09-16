@@ -1,0 +1,12 @@
+//
+// Prefix header for all source files of the 'Coniglio' target in the 'Coniglio' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
+
+// Uncomment the second line for extensive debug text
+#define DLog(...) 
+// #define DLog(...) NSLog(__VA_ARGS__)
